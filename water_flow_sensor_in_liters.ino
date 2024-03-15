@@ -1,9 +1,7 @@
     /*
   YF-S201-Water-Flow-Sensor
-  made on 14 oct 2020
-  by Amir Mohammad Shojaee @ Electropeak
-  Home
-
+  Peter Kinyanjui
+ BCT WATER BILLING SYSTEM
 */
 
 double flow; //Liters of passing water volume
